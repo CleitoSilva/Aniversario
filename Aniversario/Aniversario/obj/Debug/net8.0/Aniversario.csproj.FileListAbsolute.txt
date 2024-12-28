@@ -1,0 +1,15 @@
+C:\Users\cleit\source\repos\Aniversario\Aniversario\bin\Debug\net8.0\Aniversario.exe
+C:\Users\cleit\source\repos\Aniversario\Aniversario\bin\Debug\net8.0\Aniversario.deps.json
+C:\Users\cleit\source\repos\Aniversario\Aniversario\bin\Debug\net8.0\Aniversario.runtimeconfig.json
+C:\Users\cleit\source\repos\Aniversario\Aniversario\bin\Debug\net8.0\Aniversario.dll
+C:\Users\cleit\source\repos\Aniversario\Aniversario\bin\Debug\net8.0\Aniversario.pdb
+C:\Users\cleit\source\repos\Aniversario\Aniversario\obj\Debug\net8.0\Aniversario.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cleit\source\repos\Aniversario\Aniversario\obj\Debug\net8.0\Aniversario.AssemblyInfoInputs.cache
+C:\Users\cleit\source\repos\Aniversario\Aniversario\obj\Debug\net8.0\Aniversario.AssemblyInfo.cs
+C:\Users\cleit\source\repos\Aniversario\Aniversario\obj\Debug\net8.0\Aniversario.csproj.CoreCompileInputs.cache
+C:\Users\cleit\source\repos\Aniversario\Aniversario\obj\Debug\net8.0\Aniversario.sourcelink.json
+C:\Users\cleit\source\repos\Aniversario\Aniversario\obj\Debug\net8.0\Aniversario.dll
+C:\Users\cleit\source\repos\Aniversario\Aniversario\obj\Debug\net8.0\refint\Aniversario.dll
+C:\Users\cleit\source\repos\Aniversario\Aniversario\obj\Debug\net8.0\Aniversario.pdb
+C:\Users\cleit\source\repos\Aniversario\Aniversario\obj\Debug\net8.0\Aniversario.genruntimeconfig.cache
+C:\Users\cleit\source\repos\Aniversario\Aniversario\obj\Debug\net8.0\ref\Aniversario.dll
